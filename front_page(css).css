@@ -1,0 +1,57 @@
+.firstimg{
+    padding-left: 350px;
+}
+@media screen and (max-width: 600px) {
+    nav a {
+        display: block;
+        margin: 5px auto;
+        width: 90%;
+        text-align: center;
+    }
+}
+
+
+a{
+    font-size: 22px;
+    padding-left: 100px;
+    text-align: center;
+    background-color:white;
+}
+
+
+img{
+    padding-left: 0px;
+}
+
+label{
+    font-size: 30px;
+    padding-left: 500px;
+}
+
+.head1{
+    padding-left: 600px;
+    font-size: 35px;
+}
+
+.head2{
+    padding-left: 450px;
+}
+
+.head3{
+    padding-left: 400px;
+}
+  
+
+
+.head5{
+    padding-left: 530px;
+}
+
+.head6{
+    padding-left: 0px;
+}
+
+.phone{
+    font-size: 35px;
+    padding-left: 18px;
+}

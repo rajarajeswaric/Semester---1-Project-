@@ -1,0 +1,79 @@
+h2{
+color:orange;
+}
+
+h1{
+color:red;
+
+}
+
+h3{
+
+color:Green;
+text-align:center;
+
+}
+
+h5{
+
+color:blue;
+
+
+}
+
+
+
+.container
+{
+margin: 150px auto;
+width:50%;
+ padding: 8px;
+}
+
+
+img 
+{
+
+float: left;
+width: 500px;
+height:360px;
+padding: 0 10px  0 0 ;
+
+
+}
+
+
+
+.text{
+text-aling:justify;
+font-family: verdana; 
+
+}
+
+
+p{
+color:navy;
+
+
+}
+
+
+
+
+.mydiv{
+float: right;
+width: 450px;
+height:360px;
+padding: 0 10px  0 0 ;
+
+
+
+}
+
+*{
+background-color:ADD8E6;
+}
+
+
+
+
